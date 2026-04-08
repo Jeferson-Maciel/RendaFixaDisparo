@@ -76,4 +76,4 @@ O interpretador em Javascript não requer um Servidor para render.
 Apenas acesse a pasta raiz com as três malhas do programa e clique rapidamente 2x no seu arquivo `index.html` e a Mágica renderiza localmente em qualquer navegador (Chrome, OPR, Edge, Firefox).
 
 ---
-> Desenvolvido sob estrita excelência e precisão em JavaScript Vanilla, com um front-end moderno projetado para impressionar os investidores mais exigentes.  *(Sistemas Antigravity e Padrões de Qualidade Global)*
+https://gregarious-tiramisu-8f1dba.netlify.app/
